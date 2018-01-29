@@ -1,7 +1,7 @@
 /* Implementation of callcc (Smalltalk) */
 
-Continuation.callcc = function(aBlock) {
-    return aBlock(new Continuation());
+Continuation.callcc = function(f) {
+    return f(new Continuation());
 }
 
 /* ------ Thread entity  ------- */
