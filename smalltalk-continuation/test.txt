@@ -1,3 +1,5 @@
+Copy this code into Transcript.
+
 | test x |
 
 test := [
