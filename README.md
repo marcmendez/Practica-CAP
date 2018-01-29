@@ -1,14 +1,14 @@
 # Practica CAP
 
-Aquest és un treball en el qual es tractarà el temari après a l'assignatura 'Conceptes avançats de programació". Tractarem principalment el tema de les Continuacions en Javascript i Smalltalk. Per tal de fer-ho se'ns proposen dos exercissis diferents.
+This is a work related to the course of 'Advanced concepts of programming'. We will mainly deal with the topic of Continuations in Javascript and Smalltalk. In detail, we were proposed two different exercises.
 
-Un primer exercici basat en implementar estructures del tipus Continuacions tant en Smalltalk com en Javascript que simulin el comportament de funcionalitats del llenguatge oposat. La proposta són aquestes dues implementacions:
+A first exercise about implementing structures of Continuation type in Smalltalk and Javascript that simulate the behavior of functionalities of the opposite language. The proposal of this exercise are the following two implementations:
 
-* Implementar en Pharo un mètode unari continuation tal que funcioni exactament igual que el Continuation() de Javascript.
+* Implement in Pharo a method that works exactly as the Continuation() one of Javascript.
 
-* Implementar en Javascript una funció callcc(f) que funcioni com l'estructura callcc explicada a Pharo.
+* Implement in Javascript a callcc function that works as the callcc structure explained in Pharo.
 
-El segon exercici proposat és la implementació en Javascript mitjançant prototipus i continuacions d'un sistema de multi-threading cooperatiu. La proposta d'exercici porta inclòs dos exemples per a la comprovació de funcionament (testing).
+The second exercise proposes the implementation in Javascript using prototypes and continuations of a cooperative multi-threading system. The exercise proposal includes the examples of the operation check.
 
 ## Getting Started
 
@@ -54,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* We want to thank the oportunity and documentation given during this course as it was really extensive and comprehensible. That's the reason we are uploading this documentation of our project for future students to have an extra practical example in order try to ease the lecturer work.
+* We want to thank the oportunity and documentation given during this course because it was really extensive and comprehensible. That's the reason why we are uploading this documentation about project for future students to have an extra practical example in order try to ease the lecturer work.
