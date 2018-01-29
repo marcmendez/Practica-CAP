@@ -1,6 +1,6 @@
 # Practica CAP
 
-This is a work related to the course of 'Advanced concepts of programming'. We will mainly deal with the topic of Continuations in Javascript and Smalltalk. In detail, we were proposed two different exercises.
+This is a work related to the course of 'Advanced concepts of programming'. We will mainly deal with the topic of Continuations in Javascript and Smalltalk. You can find the information of the practical work proposed in the proposal1718 pdf. In detail, we were proposed two different exercises. 
 
 A first exercise about implementing structures of Continuation type in Smalltalk and Javascript that simulate the behavior of functionalities of the opposite language. The proposal of this exercise are the following two implementations:
 
@@ -29,16 +29,16 @@ If we want to try the project smalltalk part, it is necessary to import the .st 
 ## Built With
 
 * [Atom](https://atom.io/)
-* [Rhino](https://www.google.es/search?q=rhino&oq=rhino&aqs=chrome..69i57j35i39l2j0l3.673j0j7&sourceid=chrome&ie=UTF-8) 
+* [Rhino](https://www.google.es/search?q=rhino&oq=rhino&aqs=chrome..69i57j35i39l2j0l3.673j0j7&sourceid=chrome&ie=UTF-8)
 * [Nodejs](https://nodejs.org/es/)
 * [Pharo](https://pharo.org/)
 * [Java](https://www.java.com/es/)
 
 ## Contributing
 
-If you want to contribute to correct a mistake in the project or to add some information for the next students to have a better source of information. Send an email to: 
+If you want to contribute to correct a mistake in the project or to add some information for the next students to have a better source of information. Send an email to:
 
-* jordi.estape@est.fib.upc.edu 
+* jordi.estape@est.fib.upc.edu
 * marc.mendez.roca@est.fib.upc.edu
 
 ## Authors
