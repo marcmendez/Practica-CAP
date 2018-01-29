@@ -1,6 +1,6 @@
 # Practica CAP
 
-quest és un treball en el qual es tractarà el temari après a l'assignatura 'Conceptes avançats de programació". Tractarem principalment el tema de les Continuacions en Javascript i Smalltalk. Per tal de fer-ho se'ns proposen dos exercissis diferents.
+Aquest és un treball en el qual es tractarà el temari après a l'assignatura 'Conceptes avançats de programació". Tractarem principalment el tema de les Continuacions en Javascript i Smalltalk. Per tal de fer-ho se'ns proposen dos exercissis diferents.
 
 Un primer exercici basat en implementar estructures del tipus Continuacions tant en Smalltalk com en Javascript que simulin el comportament de funcionalitats del llenguatge oposat. La proposta són aquestes dues implementacions:
 
@@ -25,8 +25,6 @@ java -cp path/to/rhino-1.7.7.2.jar org.mozilla.javascript.tools.shell.Main -opt 
 
 ```
 If we want to try the project smalltalk part, it is necessary to import the .st to pharo in the continuation package and try it.
-hed
-
 
 ## Built With
 
@@ -38,7 +36,10 @@ hed
 
 ## Contributing
 
-If you want to contribute to correct a mistake in the project or to add some information for the next students to have a better source of information. Send and email to: jordi.estape@est.fib.upc.edu or to marc.mendez.roca@est.fib.upc.edu
+If you want to contribute to correct a mistake in the project or to add some information for the next students to have a better source of information. Send an email to: 
+
+* jordi.estape@est.fib.upc.edu 
+* marc.mendez.roca@est.fib.upc.edu
 
 ## Authors
 
@@ -53,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* We want to thank the oportunity and documentation given during this subject because it was really extensive and comprehensible.
+* We want to thank the oportunity and documentation given during this course as it was really extensive and comprehensible. That's the reason we are uploading this documentation of our project for future students to have an extra practical example in order try to ease the lecturer work.
