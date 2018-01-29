@@ -32,9 +32,9 @@ hed
 
 * [Atom](https://atom.io/)
 * [Rhino](https://www.google.es/search?q=rhino&oq=rhino&aqs=chrome..69i57j35i39l2j0l3.673j0j7&sourceid=chrome&ie=UTF-8) 
-* [Nodejs] (https://nodejs.org/es/)
-* [Pharo] (https://pharo.org/)
-* [Java] (https://www.java.com/es/)
+* [Nodejs](https://nodejs.org/es/)
+* [Pharo](https://pharo.org/)
+* [Java](https://www.java.com/es/)
 
 ## Contributing
 
@@ -43,7 +43,7 @@ If you want to contribute to correct a mistake in the project or to add some inf
 ## Authors
 
 * **Marc Méndez Roca** - *First exercise* - [marcmendez](https://github.com/marcmendez)
-* **Jordi Estapé Canal ** - *Second exercise* - [jordiestape](https://github.com/jordiestape)
+* **Jordi Estapé Canal** - *Second exercise* - [jordiestape](https://github.com/jordiestape)
 
 See also the list of [contributors](https://github.com/cap-practica/contributors) who participated in this project.
 
