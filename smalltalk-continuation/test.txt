@@ -1,0 +1,19 @@
+| test x |
+
+test := [
+    | contPoint |
+    contPoint := Continuation continuation.
+    Transcript show: 'contPoint value: '.
+    Transcript show: contPoint; cr.
+    contPoint ].
+
+x := test value.
+
+( x class = Continuation )
+    ifTrue: [
+        Transcript show: 'x is a continuation'; cr.
+        x value: 1. ]
+    ifFalse: [
+        Transcript show: 'x is not a continuation, is a '.
+        Transcript show: x class; cr.
+         ].

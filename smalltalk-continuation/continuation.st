@@ -1,2 +1,2 @@
 continuation
-  ^ self new initializeFromContext: thisContext sender.
+	^ self new initializeFromContext: thisContext sender.
