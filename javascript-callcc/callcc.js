@@ -35,7 +35,7 @@ var x = Continuation.callcc(function(cc) {
 
 if(x) {
 	print("Passa per aquí");
-	x(false);
+	cont(false);
 	print("No passa per aquí");
 } else {
 	print("Perquè torna a passar per l'if ?");
